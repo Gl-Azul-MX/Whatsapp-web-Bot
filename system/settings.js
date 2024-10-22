@@ -31,11 +31,11 @@ global.prems = []
 
 global.packname = ``
 global.author = '{\n "bot": {\n   "name": "Ruby Hoshino",\n     "author": "Azul",\n   "status_bot": "active"\n }\n}'
-global.wait = '🐢 *Aɢ, sᴏʏ ʟᴇɴᴛᴀ... ฅ^•ﻌ•^ฅ*'
-global.botname = '✯ Ai Hoshino - MD ✰'
-global.textbot = `Powered By Starlights Team`
-global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = '【 ✯ Starlights Team - Oficial Chanel ✰ 】'
+global.wait = '💥 *𝐑𝐮𝐛𝐲-𝐇𝐨𝐬𝐡𝐢𝐧𝐨-𝐌𝐃*'
+global.botname = '𝐑𝐮𝐛𝐲-𝐇𝐨𝐬𝐡𝐢𝐧𝐨-𝐌𝐃'
+global.textbot = `𝐎𝐰𝐧𝐞𝐫 𝐛𝐨𝐭=✰❦𝐺𝐿 𝐴𝑍𝑈𝐿.𝑀𝑋💥`
+global.listo = '*𝐒𝐮 𝐯𝐢𝐝𝐞𝐨💥*'
+global.namechannel = '𝐍𝐚𝐤𝐚𝐧𝐨 𝐓𝐞𝐚𝐦☪'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -44,8 +44,8 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/IozDcUnkCoVDBQBDNYF6GB'
-global.canal = 'https://whatsapp.com/channel/0029VaBfsIwGk1FyaqFcK91S'
+global.group = 'https://chat.whatsapp.com/LlWSHEMR67ZE8t8mfLm8fu'
+global.canal = 'https://whatsapp.com/channel/0029VaXDEwlC1FuFm82otA0K/645'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
